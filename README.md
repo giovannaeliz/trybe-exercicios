@@ -1,2 +1,2 @@
-# trybe-exercicios
-Exercícios resolvidos da Trybe
+# Repositório pra exercícios
+Adiciono exercícios resolvidos da Trybe
