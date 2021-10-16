@@ -15,7 +15,7 @@
  - 3-2: HTML & CSS - Primeiros passos em CSS
  - 3-3: HTML & CSS - Seletores e posicionamento
  - 3-4: HTML Semântico
- - 3-5: [Projeto - HTML & CSS]
+ - 3-5: Projeto - HTML & CSS
 ##### - Bloco 4: Introdução - JavaScript
  - 4-1: JavaScript - Primeiros passos
  - 4-2: JavaScript - Array e loop For
